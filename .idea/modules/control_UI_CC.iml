@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="control_UI_CC" external.linked.project.path="$MODULE_DIR$/../../control_UI_CC" external.root.project.path="$MODULE_DIR$/../../control_UI_CC" external.system.id="GRADLE" external.system.module.group="" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../control_UI_CC">
+      <excludeFolder url="file://$MODULE_DIR$/../../control_UI_CC/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../control_UI_CC/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 26 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

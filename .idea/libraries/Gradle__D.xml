@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: D" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="__local_aars__" artifactId="D" version="\IDEA\project\control_UI\control_UI_CC\app\libs\jxl.jar" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/control_UI_CC/app/libs/jxl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

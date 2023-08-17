@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-media-compat:26.1.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../software/gradle/gradle-7.3.3-all/gradle-7.3.3/caches/transforms-3/22d32cedd5934c0eef02368327c81f9b/transformed/support-media-compat-26.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../software/gradle/gradle-7.3.3-all/gradle-7.3.3/caches/transforms-3/22d32cedd5934c0eef02368327c81f9b/transformed/support-media-compat-26.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../software/gradle/gradle-7.3.3-all/gradle-7.3.3/caches/transforms-3/22d32cedd5934c0eef02368327c81f9b/transformed/support-media-compat-26.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../software/gradle/gradle-7.3.3-all/gradle-7.3.3/caches/modules-2/files-2.1/com.android.support/support-media-compat/26.1.0/774fd1164ec32514eec562953f723a1920a7fef7/support-media-compat-26.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

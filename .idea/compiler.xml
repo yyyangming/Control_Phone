@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="control_UI.control_UI_CC.app" target="11" />
+      <module name="control_UI_CC.app" target="11" />
+      <module name="IDEA.project.control_UI.control_UI_CC.app" target="11" />
+      <module name="project.control_UI.control_UI_CC.app" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
